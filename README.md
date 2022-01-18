@@ -7,6 +7,7 @@ Some might say better then pancakes
 function test()
 {
 console.log("look ma', no hands");
-}```
+}
+```
 
 Here is a link to the file: [Github Cheatsheet](./PDF's/markdown-cheatsheet-online.pdf)
