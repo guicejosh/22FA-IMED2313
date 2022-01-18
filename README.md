@@ -5,4 +5,6 @@ Some might say better then pancakes
 
 ```javascript
 function test()
-{ console.log("look ma', no hands");}
+{
+console.log("look ma', no hands");
+}
