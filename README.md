@@ -1,2 +1,3 @@
 # 21FA-IMED2313
-Class projects for Project Analysis and Design.
+<h2> Class projects for Project Analysis and Design. </h2>
+Waffles are amazing
